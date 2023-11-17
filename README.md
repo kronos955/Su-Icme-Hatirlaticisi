@@ -6,5 +6,7 @@ Windows için;
 CMD açıp şu komutları yazıp gerekli modülleri yükledikten sonra çalıştırabilirsiniz:
 
 pip install random
+
 pip install art
+
 pip install colorama
