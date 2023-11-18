@@ -1,5 +1,6 @@
 # Su İçme Hatırlatıcısı
-Smtp kullanarak, 30 dakikada 1 hedef maile su ile ilgili mailler gönderir.
+Smtp kullanarak, hedef maile su ile ilgili mailler gönderir.
+Bulut server üzerinden çalıştırırsanız 30dk'da 1 mail atar.
 
 Windows için;
 
